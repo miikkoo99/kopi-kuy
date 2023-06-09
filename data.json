@@ -1,0 +1,59 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://shopee.co.id/product/288291536/7452739825"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://shopee.co.id/product/267364456/7154863771"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "kopisusu": [
+        {
+            "foto": "https://img.freepik.com/free-photo/close-up-cup-coffee-three-colors_23-2148349699.jpg?w=740&t=st=1686197760~exp=1686198360~hmac=613c1df440bc86b6daca40d74f4303533bbe2c49cfdc09fcdbdedbf631b9a657",
+            "nama": "Kopi Susu",
+            "size": "100 Gram",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "kopiliberika": [
+        {
+            "foto": "https://img.freepik.com/premium-photo/coffee_919646-401.jpg?w=360",
+            "nama": "Kopi Liberika",
+            "size": "100 Gram",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
